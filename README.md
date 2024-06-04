@@ -1,7 +1,7 @@
 # FlashChat
-Project developed during the IOS App Development course from Angela Yu. The main goal of this project is offer a chat service. The MVC Design Pattern was used. The app also uses services from Firebase like FireStorage and Authentication.
+Project developed during the IOS App Development course from Angela Yu. The main goal of this project is offer a chat service. The MVC Design Pattern was used. The app also uses services from Firebase like Firestore Database and Authentication.
 
-<video src="#" width="100%" controls></video>
+<video src="https://github.com/LucasMeloSena/FlashChat/assets/93053816/99d1aef0-bd25-40e9-a293-1f4a18b1c499" width="100%" controls></video>
 
 ## 💻 Technologies used
 * [Swift](https://developer.apple.com/documentation/swift)
